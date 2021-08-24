@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = roberto.caso@gmail.com
+	name = Roberto Caso
